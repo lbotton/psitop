@@ -13,6 +13,7 @@ Application to promote and improve clinical relations.
 - Spring Boot
 - Spring MVC
 - Spring Data JPA
+- Spring Security
 - Hibernate
 
 ## Technical implementations 
@@ -21,9 +22,13 @@ Application to promote and improve clinical relations.
 - Abstract Factory (sda)
 - BaseEntity (tennis-courts)
 - AuditListener (tennis-courts)
+- DTO
 - DRY 
 - SOLID
 - KISS
+- Eclipse Google Java Style Guide
+- Lombok (avoid @Autowired)
+- TDD
 
 ## Future Implementations
 
